@@ -4,7 +4,7 @@
 >
 > A simple API to manage subscription access — without Stripe complexity.
 >
-> 👉 Request access: [your-email@example.com](mailto:your-email@example.com)
+> 👉 Request access: [daventodoor@gmail.com](mailto:daventodoor@gmail.com)
 
 ---
 
@@ -209,7 +209,7 @@ RabbitRail gives you:
 
 RabbitRail is currently in private beta.
 
-👉 Contact: [your-email@example.com](mailto:your-email@example.com)
+👉 Contact: [daventodoor@egmail.com](mailto:daventodoor@gmail.com)
 
 ---
 
