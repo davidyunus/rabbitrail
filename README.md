@@ -209,7 +209,7 @@ RabbitRail gives you:
 
 RabbitRail is currently in private beta.
 
-👉 Contact: [daventodoor@egmail.com](mailto:daventodoor@gmail.com)
+👉 Contact: [daventodoor@gmail.com](mailto:daventodoor@gmail.com)
 
 ---
 
